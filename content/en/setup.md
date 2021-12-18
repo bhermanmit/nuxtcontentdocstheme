@@ -14,16 +14,16 @@ Add `@nuxtjs/xxx` dependency to your project:
 <code-group>
   <code-block label="Yarn" active>
 
-  ```bash
-  yarn add @nuxtjs/xxx
-  ```
+```bash
+yarn add @nuxtjs/xxx
+```
 
   </code-block>
   <code-block label="NPM">
 
-  ```bash
-  npm install @nuxtjs/xxx
-  ```
+```bash
+npm install @nuxtjs/xxx
+```
 
   </code-block>
 </code-group>
