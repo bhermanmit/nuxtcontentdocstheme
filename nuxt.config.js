@@ -4,4 +4,8 @@ export default theme({
   docs: {
     primaryColor: '#E24F55',
   },
+  target: 'static',
+  router: {
+    base: '/nuxt/'
+  }
 })
