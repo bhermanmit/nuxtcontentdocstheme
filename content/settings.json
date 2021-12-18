@@ -1,0 +1,10 @@
+{
+  "title": "Nuxt Test",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "bhermanmit/nuxt",
+  "twitter": "@nuxt_js"
+}
